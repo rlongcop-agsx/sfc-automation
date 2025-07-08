@@ -92,6 +92,7 @@ Main Test Teardown
     
     AppiumLibrary.Stop Screen Recording
     
+    
     Move Screenshot To Test Evidence    ${os_type}    ${last_tag}
     Move Recording To Test Evidence    ${os_type}    ${last_tag}
     

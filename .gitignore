@@ -6,7 +6,6 @@
 *.png
 *.csv
 *.mp4
-*.txt
 *.app
 *.apk
 data/variables/private_variables.robot

@@ -10,8 +10,8 @@ ${REMOTE_URL}           http://localhost:4723
 &{DEVICE_NAME}          ios=iPhone 16 Pro      android=emulator-5554
 &{AUTOMATION_NAME}      ios=XCUITest           android=UiAutomator2
 
-&{APP}                  ios=${ios}
-...                     android=${android}
+&{APP}                  ios=${ios}             android=${android}
 
-&{DEVICE_MODEL}          ios=iPhone 16 Pro      android=Galaxy_S22
-${PHONE_NUMBER}          8327879836
+&{DEVICE_MODEL}         ios=iPhone 16 Pro      android=Galaxy_S22
+${PHONE_NUMBER}         US1=2722062409         US2=2024571110    
+...                     CA1=775 459 7355       CA2=703 702 1110    
